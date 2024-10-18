@@ -1,0 +1,1032 @@
+1
+00:00:00,000 --> 00:00:02,000
+hello everyone welcome to a new session
+
+2
+00:00:02,000 --> 00:00:03,919
+in biochemistry
+
+3
+00:00:03,919 --> 00:00:05,520
+this presentation brings to you the
+
+4
+00:00:05,520 --> 00:00:07,040
+detailed account
+
+5
+00:00:07,040 --> 00:00:10,639
+of the metabolic process glycolysis
+
+6
+00:00:10,639 --> 00:00:12,559
+the glycolysis the term comes from two
+
+7
+00:00:12,559 --> 00:00:14,000
+greek terms
+
+8
+00:00:14,000 --> 00:00:17,279
+the greek root words which means sugar
+
+9
+00:00:17,279 --> 00:00:20,800
+or splitting okay sugar and splitting
+
+10
+00:00:20,800 --> 00:00:23,600
+which means glycolysis in nutshell it is
+
+11
+00:00:23,600 --> 00:00:24,480
+the
+
+12
+00:00:24,480 --> 00:00:26,480
+breakdown or the splitting or the
+
+13
+00:00:26,480 --> 00:00:27,840
+dissolution of
+
+14
+00:00:27,840 --> 00:00:30,480
+the sugar molecule it could be glucose
+
+15
+00:00:30,480 --> 00:00:31,920
+mainly it is glucose
+
+16
+00:00:31,920 --> 00:00:34,800
+okay so that is glycolysis so it can be
+
+17
+00:00:34,800 --> 00:00:36,079
+defined as
+
+18
+00:00:36,079 --> 00:00:39,040
+sequence of reactions that metabolizes
+
+19
+00:00:39,040 --> 00:00:40,719
+one molecule of glucose
+
+20
+00:00:40,719 --> 00:00:43,200
+to produce two molecules of spiderweight
+
+21
+00:00:43,200 --> 00:00:45,360
+along with production of atp
+
+22
+00:00:45,360 --> 00:00:47,840
+so uh the glucose molecule a single
+
+23
+00:00:47,840 --> 00:00:48,879
+glucose molecule
+
+24
+00:00:48,879 --> 00:00:51,039
+it is broken down to produce two
+
+25
+00:00:51,039 --> 00:00:53,199
+molecules of pyruvic acid
+
+26
+00:00:53,199 --> 00:00:55,920
+and along with that energy is produced
+
+27
+00:00:55,920 --> 00:00:56,559
+in the form of
+
+28
+00:00:56,559 --> 00:00:59,199
+atp molecules okay what are the
+
+29
+00:00:59,199 --> 00:01:01,359
+significant features of
+
+30
+00:01:01,359 --> 00:01:03,359
+what you call glycolysis you can say
+
+31
+00:01:03,359 --> 00:01:05,438
+that glycolysis
+
+32
+00:01:05,438 --> 00:01:09,200
+it occurs in all the cells of the body
+
+33
+00:01:09,200 --> 00:01:12,799
+and enzymes of enzymes required for the
+
+34
+00:01:12,799 --> 00:01:14,000
+glycolytic pathway
+
+35
+00:01:14,000 --> 00:01:16,320
+it is present in the cytoplasm of all
+
+36
+00:01:16,320 --> 00:01:17,200
+the cells
+
+37
+00:01:17,200 --> 00:01:19,600
+okay and it is considered to be the sole
+
+38
+00:01:19,600 --> 00:01:21,119
+source of
+
+39
+00:01:21,119 --> 00:01:23,920
+what you call energy in many of the
+
+40
+00:01:23,920 --> 00:01:25,840
+mammalian tissues and cell types for
+
+41
+00:01:25,840 --> 00:01:27,119
+example
+
+42
+00:01:27,119 --> 00:01:30,640
+glycolysis it is a major pathway for the
+
+43
+00:01:30,640 --> 00:01:32,159
+synthesis of energy for the
+
+44
+00:01:32,159 --> 00:01:35,439
+atp synthesis in tissues which lack
+
+45
+00:01:35,439 --> 00:01:36,320
+mitochondria
+
+46
+00:01:36,320 --> 00:01:40,079
+for example erythrocytes then
+
+47
+00:01:40,079 --> 00:01:43,439
+what you call cornea lens etc and other
+
+48
+00:01:43,439 --> 00:01:44,159
+than that
+
+49
+00:01:44,159 --> 00:01:47,040
+it is also the souls of souls of energy
+
+50
+00:01:47,040 --> 00:01:47,680
+in many
+
+51
+00:01:47,680 --> 00:01:50,720
+um tissues like renal medulla
+
+52
+00:01:50,720 --> 00:01:54,000
+of that of a brain sperm etc so
+
+53
+00:01:54,000 --> 00:01:56,320
+glycolysis is very essential for brain
+
+54
+00:01:56,320 --> 00:01:58,479
+which is depend upon uh glucose for
+
+55
+00:01:58,479 --> 00:01:59,600
+energy
+
+56
+00:01:59,600 --> 00:02:01,920
+and uh the as already mentioned the
+
+57
+00:02:01,920 --> 00:02:04,159
+glucose is the sole source of energy
+
+58
+00:02:04,159 --> 00:02:06,719
+in the brain and uh the like it depends
+
+59
+00:02:06,719 --> 00:02:08,639
+upon glycolysis for the complete
+
+60
+00:02:08,639 --> 00:02:11,360
+uh energy purpose and along with that
+
+61
+00:02:11,360 --> 00:02:13,520
+many anaerobic microorganisms they are
+
+62
+00:02:13,520 --> 00:02:15,040
+entirely dependent on
+
+63
+00:02:15,040 --> 00:02:17,040
+a glucose because glycolysis is a
+
+64
+00:02:17,040 --> 00:02:18,480
+anaerobic process
+
+65
+00:02:18,480 --> 00:02:21,520
+it doesn't require oxygen so it can
+
+66
+00:02:21,520 --> 00:02:24,879
+take place in the absence or
+
+67
+00:02:24,879 --> 00:02:28,080
+in the presence of oxygen
+
+68
+00:02:28,080 --> 00:02:30,879
+in the presence of oxygen that is in
+
+69
+00:02:30,879 --> 00:02:33,040
+aerobic condition what happens is
+
+70
+00:02:33,040 --> 00:02:35,680
+the glucose it breaks down to pyruvate
+
+71
+00:02:35,680 --> 00:02:37,360
+and this pyruvate later
+
+72
+00:02:37,360 --> 00:02:40,560
+it can ah get oxidized to carbon dioxide
+
+73
+00:02:40,560 --> 00:02:41,200
+and water
+
+74
+00:02:41,200 --> 00:02:44,879
+but in the absence of oxygen the um
+
+75
+00:02:44,879 --> 00:02:46,640
+like the glucose it will break down to
+
+76
+00:02:46,640 --> 00:02:48,480
+pyruvate which will enter the anaerobic
+
+77
+00:02:48,480 --> 00:02:49,280
+pathway
+
+78
+00:02:49,280 --> 00:02:52,640
+and result in the production of lactate
+
+79
+00:02:52,640 --> 00:02:55,120
+uh under anaerobic condition okay so
+
+80
+00:02:55,120 --> 00:02:56,239
+whichever will be the way
+
+81
+00:02:56,239 --> 00:02:59,440
+it we can see that uh it does it occurs
+
+82
+00:02:59,440 --> 00:03:00,879
+in the absence as well as in the
+
+83
+00:03:00,879 --> 00:03:02,000
+presence of oxygen
+
+84
+00:03:02,000 --> 00:03:03,920
+okay so that is more important thing
+
+85
+00:03:03,920 --> 00:03:05,840
+because there are plenty of organisms
+
+86
+00:03:05,840 --> 00:03:06,239
+which
+
+87
+00:03:06,239 --> 00:03:09,040
+come completely depend on the glycolytic
+
+88
+00:03:09,040 --> 00:03:10,640
+pathway for their energy
+
+89
+00:03:10,640 --> 00:03:13,200
+uh needs okay it is because glycolysis
+
+90
+00:03:13,200 --> 00:03:14,000
+can very well
+
+91
+00:03:14,000 --> 00:03:15,840
+uh get completed in the absence of
+
+92
+00:03:15,840 --> 00:03:17,440
+oxygen
+
+93
+00:03:17,440 --> 00:03:21,440
+now uh we can see that uh the
+
+94
+00:03:21,440 --> 00:03:23,200
+the glycolytic pathway it was
+
+95
+00:03:23,200 --> 00:03:24,959
+illustrated uh
+
+96
+00:03:24,959 --> 00:03:27,360
+or the complete uh pathway of glycolysis
+
+97
+00:03:27,360 --> 00:03:29,840
+was elucidated by 1940
+
+98
+00:03:29,840 --> 00:03:33,440
+and um endon and miroff they were two by
+
+99
+00:03:33,440 --> 00:03:34,000
+chemists
+
+100
+00:03:34,000 --> 00:03:37,360
+who had contributed uh to the knowledge
+
+101
+00:03:37,360 --> 00:03:37,840
+of
+
+102
+00:03:37,840 --> 00:03:41,280
+glycolysis um especially the enzymatic
+
+103
+00:03:41,280 --> 00:03:43,599
+uh breakdown at various stages of
+
+104
+00:03:43,599 --> 00:03:45,360
+glycolysis we completely studied
+
+105
+00:03:45,360 --> 00:03:48,720
+and elucidated by emden and meirav and
+
+106
+00:03:48,720 --> 00:03:51,840
+in honor of these two uh vacuums
+
+107
+00:03:51,840 --> 00:03:54,799
+the glycolysis is also known as emden
+
+108
+00:03:54,799 --> 00:03:56,080
+mayor of pathway
+
+109
+00:03:56,080 --> 00:03:58,959
+okay so the this is about the glycolysis
+
+110
+00:03:58,959 --> 00:04:01,280
+the interaction okay that is glycolysis
+
+111
+00:04:01,280 --> 00:04:03,360
+it involves sequence of reactions that
+
+112
+00:04:03,360 --> 00:04:04,400
+will convert
+
+113
+00:04:04,400 --> 00:04:06,720
+or break down glucose into two molecules
+
+114
+00:04:06,720 --> 00:04:07,519
+a single
+
+115
+00:04:07,519 --> 00:04:09,280
+molecule of glucose into two molecules
+
+116
+00:04:09,280 --> 00:04:11,439
+of uh pyruvic acid along with the
+
+117
+00:04:11,439 --> 00:04:12,720
+production of atp
+
+118
+00:04:12,720 --> 00:04:16,880
+okay and there are uh glycolysis is uh
+
+119
+00:04:16,880 --> 00:04:19,519
+unique because it can happen in both uh
+
+120
+00:04:19,519 --> 00:04:21,600
+presence or absence of oxygen
+
+121
+00:04:21,600 --> 00:04:23,280
+in the presence of oxygen the glucose
+
+122
+00:04:23,280 --> 00:04:24,720
+molecule it will be
+
+123
+00:04:24,720 --> 00:04:26,240
+broken down into two molecules of
+
+124
+00:04:26,240 --> 00:04:28,000
+pyruvate pyruvic acid
+
+125
+00:04:28,000 --> 00:04:30,240
+and uh under the in the absence of
+
+126
+00:04:30,240 --> 00:04:31,120
+oxygen this
+
+127
+00:04:31,120 --> 00:04:33,199
+pyruvic acid it can get converted into
+
+128
+00:04:33,199 --> 00:04:34,160
+lactic acid
+
+129
+00:04:34,160 --> 00:04:37,360
+okay uh in the uh um
+
+130
+00:04:37,360 --> 00:04:39,840
+or even what you call uh alcoholic
+
+131
+00:04:39,840 --> 00:04:41,600
+fermentation is that uh in
+
+132
+00:04:41,600 --> 00:04:43,840
+east and uh so uh in the presence of
+
+133
+00:04:43,840 --> 00:04:46,160
+oxygen what happens the pyruvate it is
+
+134
+00:04:46,160 --> 00:04:48,560
+getting oxidized to form carbon dioxide
+
+135
+00:04:48,560 --> 00:04:49,280
+water
+
+136
+00:04:49,280 --> 00:04:51,280
+right so it can happen in both
+
+137
+00:04:51,280 --> 00:04:52,880
+situations that are so
+
+138
+00:04:52,880 --> 00:04:55,759
+many cells which can which are
+
+139
+00:04:55,759 --> 00:04:57,919
+anaerobically functioning they do depend
+
+140
+00:04:57,919 --> 00:04:59,199
+on glycolysis for their
+
+141
+00:04:59,199 --> 00:05:01,600
+energy date secondly we can see that
+
+142
+00:05:01,600 --> 00:05:03,039
+there are many cells which
+
+143
+00:05:03,039 --> 00:05:06,000
+uh lack mitochondria they are they may
+
+144
+00:05:06,000 --> 00:05:08,000
+be aerobic but they lack mitochondria
+
+145
+00:05:08,000 --> 00:05:10,880
+so they have to depend upon glycolysis
+
+146
+00:05:10,880 --> 00:05:11,440
+for their
+
+147
+00:05:11,440 --> 00:05:14,160
+complete source of energy okay so that
+
+148
+00:05:14,160 --> 00:05:15,680
+is about the glycolysis
+
+149
+00:05:15,680 --> 00:05:19,120
+now regarding the um steps involved
+
+150
+00:05:19,120 --> 00:05:21,919
+glycolysis the whole complete sequence
+
+151
+00:05:21,919 --> 00:05:23,280
+of reactions it can be
+
+152
+00:05:23,280 --> 00:05:24,880
+divided into two phases that is
+
+153
+00:05:24,880 --> 00:05:26,880
+preparatory phase or the priming phase
+
+154
+00:05:26,880 --> 00:05:27,840
+we call
+
+155
+00:05:27,840 --> 00:05:30,960
+uh and the payoff phase okay the first
+
+156
+00:05:30,960 --> 00:05:34,080
+phase is a preparatory phase
+
+157
+00:05:34,080 --> 00:05:36,960
+and uh the first set of phases and the
+
+158
+00:05:36,960 --> 00:05:38,479
+preparatory phase or the first phase of
+
+159
+00:05:38,479 --> 00:05:39,759
+glycolysis
+
+160
+00:05:39,759 --> 00:05:42,720
+it is referred as priming phase or it is
+
+161
+00:05:42,720 --> 00:05:44,639
+known as energizing phase
+
+162
+00:05:44,639 --> 00:05:46,320
+okay priming phase in the sense the
+
+163
+00:05:46,320 --> 00:05:49,360
+phase where the energy is being utilized
+
+164
+00:05:49,360 --> 00:05:50,960
+okay energy is being utilized in the
+
+165
+00:05:50,960 --> 00:05:52,639
+form of atp right
+
+166
+00:05:52,639 --> 00:05:54,639
+and during this particular phase we can
+
+167
+00:05:54,639 --> 00:05:56,479
+see that the glucose
+
+168
+00:05:56,479 --> 00:05:59,520
+it gets uh phosphorylated uh
+
+169
+00:05:59,520 --> 00:06:02,560
+and then it splits into two uh
+
+170
+00:06:02,560 --> 00:06:05,280
+the triose phosphate molecules okay so
+
+171
+00:06:05,280 --> 00:06:06,160
+it is actually
+
+172
+00:06:06,160 --> 00:06:08,880
+uh glucose produ uh converted into
+
+173
+00:06:08,880 --> 00:06:10,639
+glyceraldehyde 3 phosphate
+
+174
+00:06:10,639 --> 00:06:13,680
+and this process it gets
+
+175
+00:06:13,680 --> 00:06:16,960
+included under preparatory phase and uh
+
+176
+00:06:16,960 --> 00:06:19,120
+the glyceraldehyde 3 phosphate is a
+
+177
+00:06:19,120 --> 00:06:20,080
+three carbon
+
+178
+00:06:20,080 --> 00:06:21,840
+containing compound or three carbon
+
+179
+00:06:21,840 --> 00:06:24,160
+containing sugar while glucose is a six
+
+180
+00:06:24,160 --> 00:06:25,520
+carbon containing sugar
+
+181
+00:06:25,520 --> 00:06:28,319
+so a six carbon sugar is uh converted
+
+182
+00:06:28,319 --> 00:06:28,960
+into
+
+183
+00:06:28,960 --> 00:06:32,000
+three carbon phosphorylated sugar okay
+
+184
+00:06:32,000 --> 00:06:33,600
+this is what happens in the preparatory
+
+185
+00:06:33,600 --> 00:06:34,000
+phase
+
+186
+00:06:34,000 --> 00:06:35,840
+and here you can see a
+
+187
+00:06:35,840 --> 00:06:37,520
+non-phosphorylated sugar is getting
+
+188
+00:06:37,520 --> 00:06:39,199
+converted into phosphorylated sugar
+
+189
+00:06:39,199 --> 00:06:41,039
+obviously there is a requirement of
+
+190
+00:06:41,039 --> 00:06:43,680
+atp okay so that is where the atp is
+
+191
+00:06:43,680 --> 00:06:44,560
+getting you
+
+192
+00:06:44,560 --> 00:06:48,080
+utilized and energy is uh like used
+
+193
+00:06:48,080 --> 00:06:50,880
+okay so it is actually glucose is
+
+194
+00:06:50,880 --> 00:06:52,400
+getting activated
+
+195
+00:06:52,400 --> 00:06:54,960
+or it is getting primed we call or it is
+
+196
+00:06:54,960 --> 00:06:56,400
+getting prepared for the
+
+197
+00:06:56,400 --> 00:06:59,759
+glycolytic process okay the second phase
+
+198
+00:06:59,759 --> 00:07:02,880
+uh actually it is known as the
+
+199
+00:07:02,880 --> 00:07:07,039
+payoff phase or we call it as uh energy
+
+200
+00:07:07,039 --> 00:07:10,479
+uh what you call um it
+
+201
+00:07:10,479 --> 00:07:13,280
+is actually atp is produced during this
+
+202
+00:07:13,280 --> 00:07:15,680
+phase okay it is energy conserving phase
+
+203
+00:07:15,680 --> 00:07:17,520
+okay or conservation phase okay
+
+204
+00:07:17,520 --> 00:07:20,000
+so here what happens is the free energy
+
+205
+00:07:20,000 --> 00:07:21,599
+which is trapped in the substrate
+
+206
+00:07:21,599 --> 00:07:22,560
+molecules
+
+207
+00:07:22,560 --> 00:07:25,680
+uh it is the free energy it is getting
+
+208
+00:07:25,680 --> 00:07:27,280
+trapped in the substrate molecules and
+
+209
+00:07:27,280 --> 00:07:27,919
+this
+
+210
+00:07:27,919 --> 00:07:30,000
+is getting con conserved in the form of
+
+211
+00:07:30,000 --> 00:07:31,280
+atp okay
+
+212
+00:07:31,280 --> 00:07:33,440
+here the glyceraldehyde three phosphate
+
+213
+00:07:33,440 --> 00:07:35,280
+it is getting converted into
+
+214
+00:07:35,280 --> 00:07:38,160
+the pyruvic acid okay ultimately passing
+
+215
+00:07:38,160 --> 00:07:39,280
+through various tips
+
+216
+00:07:39,280 --> 00:07:41,680
+pyruvic acid is produced and during the
+
+217
+00:07:41,680 --> 00:07:43,039
+this particular phase
+
+218
+00:07:43,039 --> 00:07:46,080
+nadh in atp molecules are produced
+
+219
+00:07:46,080 --> 00:07:48,560
+uh which is actually energy conserving
+
+220
+00:07:48,560 --> 00:07:49,280
+molecules
+
+221
+00:07:49,280 --> 00:07:52,080
+okay so glycolysis it is for um the
+
+222
+00:07:52,080 --> 00:07:53,840
+whole set of reactions it can be
+
+223
+00:07:53,840 --> 00:07:55,599
+uh differentiated into two phases
+
+224
+00:07:55,599 --> 00:07:56,960
+preparatory phase and p
+
+225
+00:07:56,960 --> 00:07:58,560
+of phase preparatory phase is otherwise
+
+226
+00:07:58,560 --> 00:08:01,039
+known as priming phase or energy
+
+227
+00:08:01,039 --> 00:08:02,720
+spending phase okay it is actually
+
+228
+00:08:02,720 --> 00:08:04,479
+energy requiring phase
+
+229
+00:08:04,479 --> 00:08:07,440
+here what happens is the glucose uh
+
+230
+00:08:07,440 --> 00:08:09,440
+molecule is getting prepared
+
+231
+00:08:09,440 --> 00:08:12,400
+or activated to undergo the glycolytic
+
+232
+00:08:12,400 --> 00:08:13,199
+pathway
+
+233
+00:08:13,199 --> 00:08:15,680
+okay and in the preparatory phase
+
+234
+00:08:15,680 --> 00:08:17,520
+glucose which is a six carbon sugar is
+
+235
+00:08:17,520 --> 00:08:19,120
+getting converted into
+
+236
+00:08:19,120 --> 00:08:20,879
+phosphorylated three carbon sugar which
+
+237
+00:08:20,879 --> 00:08:22,960
+is this glyceraldehyde three phosphate
+
+238
+00:08:22,960 --> 00:08:24,879
+okay during the pair phase this
+
+239
+00:08:24,879 --> 00:08:26,639
+phosphorylated three carbon sugar is
+
+240
+00:08:26,639 --> 00:08:28,639
+getting converted into pyruvic acid
+
+241
+00:08:28,639 --> 00:08:30,800
+through various steps and during these
+
+242
+00:08:30,800 --> 00:08:32,080
+phase we can see that
+
+243
+00:08:32,080 --> 00:08:35,279
+uh like energy molecules atp and 88 etc
+
+244
+00:08:35,279 --> 00:08:36,559
+they are being produced
+
+245
+00:08:36,559 --> 00:08:39,120
+okay so it is an energy conserving uh
+
+246
+00:08:39,120 --> 00:08:40,640
+phase or we can say
+
+247
+00:08:40,640 --> 00:08:43,839
+during this phase energy is generated
+
+248
+00:08:43,839 --> 00:08:45,519
+okay so preparatory phase of priming
+
+249
+00:08:45,519 --> 00:08:46,880
+phase energy
+
+250
+00:08:46,880 --> 00:08:49,279
+utilization phase or energizing phase
+
+251
+00:08:49,279 --> 00:08:50,080
+while
+
+252
+00:08:50,080 --> 00:08:53,920
+um the payoff phase that is the energy
+
+253
+00:08:53,920 --> 00:08:56,080
+generation phase okay so this is about
+
+254
+00:08:56,080 --> 00:08:58,240
+the
+
+255
+00:08:58,240 --> 00:09:00,399
+two major phases of glycolysis we can
+
+256
+00:09:00,399 --> 00:09:01,680
+see the phase wise
+
+257
+00:09:01,680 --> 00:09:04,240
+glycolithic what all are the reactions
+
+258
+00:09:04,240 --> 00:09:07,839
+going on okay
+

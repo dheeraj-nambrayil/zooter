@@ -1,0 +1,127 @@
+*{
+    background-color: #219ebc;
+}
+/* The side navigation menu */
+ .sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    /*background: rgba( 255, 255, 255, 0.25 );*/
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  }
+  
+  /* Sidebar links */
+  .sidebar a {
+    display: block;
+    color: #023047;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  /* Active/current link */
+  .sidebar a.active {
+    background-color: #ffb703;
+    /*color: #fb8500;*/
+  }
+  
+  /* Links on mouse-over */
+  .sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
+  .heading {
+    color: #fff;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #ffb703,
+        0 0 21px #ffb703,
+        0 0 42px #000,
+        0 0 82px #000,
+        0 0 92px #000,
+        0 0 102px #000,
+        0 0 151px #000;
+  }
+  /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+  div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+  }
+  .video_cdn{
+    margin-left: 250px;
+  }
+  .container{
+    display: flex;
+    align-items: flex-start;
+  }
+  .transcript{
+    margin: 75px 50px 50px 50px;
+    height: 70%;
+    align-items: center;
+    width: 25%;
+    align-self: center;
+  }
+  .transcript pre{
+    height: 660px;
+    align-items: start;
+    overflow: scroll;
+    background-color: #2F3C7E;
+    margin: 15px;
+    padding: 20px 20px 20px 20px;
+    color: #FBEAEB;
+    border-radius: 0;
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    /*background: rgba( 255, 255, 255, 0.25 );*/
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+  }
+  .video_cdn video{
+    width: 100%;
+    height: 70%;
+  }
+  .index table{
+    margin-left:250px;
+    padding-top:50px;
+    display: flex;
+  }
+  .expln, .header, .index{
+    margin-left: 200px;
+  }
+  /* On screens that are less than 700px wide, make the sidebar into a topbar */
+  @media screen and (max-width: 700px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+    .expln{
+        margin-left: 0px;
+    }
+  }
+  :any-link{
+    color:#FBEAEB
+  }
+  /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+  @media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+    .expln, .header{
+        margin-left: 0px;
+      }
+  } 
